@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @M0ck1ngjay!
+# 👋 Hi, I'm M0ck1ngjay!
 
 Welcome to my GitHub profile! 🚀 Here's a bit about me:
 
