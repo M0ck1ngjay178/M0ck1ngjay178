@@ -28,7 +28,7 @@ Welcome to my GitHub profile! 🚀 Here's a bit about me:
 ## Let's Connect!
 - 🌐 GitHub: [M0ck1ngjay178](https://github.com/M0ck1ngjay178)  
 - 💼 LinkedIn: [Margo B](https://www.linkedin.com/in/margo-b-82096432a/)  
-- ✉️ Email: [BON8330@pennwest.edu](mailto:BON8330@pennwest.edu)  
+- ✉️ Email: [margobonal11010@gmail.com](mailto:margobonal11010@gmail.com)  
 
 ---
 
