@@ -6,15 +6,15 @@ Welcome to my GitHub profile! 🚀 Here's a bit about me:
 
 ## About Me
 - 🎓 **Computer Science Student** at **Pennsylvania Western University, California PA** (GPA: 3.70, Expected Graduation: April 2026).  
-- 🌱 Passionate about solving problems in **software engineering, back-end development, cybersecurity**, and **networking**.  
+- 🌱 Passionate about solving problems in **software engineering, full stack development, cybersecurity**, and **networking**.  
 - 💡 Enthusiastic about **developing user-friendly applications**, creating secure systems, and exploring innovative tech. 
 
 ---
 
 ## Skills
-- **Programming Languages**: C, C++, Python, Java, Assembly, COBOL  
-- **Tools & Environments**: Visual Studio, VS Code, MSYS, MySQL, Git/GitHub 
-- **Specialized Skills**:   Encryption, UX/UI Development, APIs, mySQL, NI Multisim, KiCad, Soldering, PCB Design, Wire Wrapping
+- **Programming Languages**: C++, C, Python, HTML, CSS, JavaScript, COBOL, Java, API, Prolog, Assembly
+- **Tools & Environments**:  Vs Code, Visual Studio, Dev C++, MinGW, MSYS, MySQL, MSSQL, Git/GitHub, Azure DevOps, Hibernate, Flask, Vite, Vector Database, Node.js, React, Maven, EVBS, Linux OS, Windows OS, Virtual Box, Docker, WSL
+- **Specialized Skills**:    Encryption, UX/UI Development, APIs, mySQL, NI Multisim, KiCad, Soldering, PCB Design, Wire Wrapping
 
 ---
 
