@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🚀 Here's a bit about me:
 ---
 
 ## About Me
-- 🎓 **Computer Science Student** at **Pennsylvania Western University, California PA** (GPA: 3.70, Expected Graduation: April 2026).  
+- 🎓 **Computer Science Student** at **Pennsylvania Western University, California PA** (GPA: 3.72, Expected Graduation: April 2026).  
 - 🌱 Passionate about solving problems in **software engineering, full stack development, cybersecurity**, and **networking**.  
 - 💡 Enthusiastic about **developing user-friendly applications**, creating secure systems, and exploring innovative tech. 
 
