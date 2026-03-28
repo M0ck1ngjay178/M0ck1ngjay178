@@ -19,7 +19,7 @@ Welcome to my GitHub profile! 🚀 Here's a bit about me:
 ---
 
 ## Awards & Recognitions
-- 🎓 **MAGNA CUM LAUDE Latin Honors
+- 🎓 **MAGNA CUM LAUDE Latin Honors**
 - 🏆 **Dean’s List** (2022 - Present)  
 - 💼 **CS Advisory Board Student Representative**, PennWest University  
 - 🎖️ **Vulcan Merit Scholarship**  
