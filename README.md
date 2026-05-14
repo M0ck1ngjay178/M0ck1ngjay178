@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Margo!
 
-Welcome to my GitHub profile! 🚀 Here's a bit about me:
+Welcome to my GitHub profile! Here's a bit about me:
 
 ---
 
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! 🚀 Here's a bit about me:
 
 ## Awards & Recognitions
 - 🎓 **MAGNA CUM LAUDE Latin Honors**
-- 🏆 **Dean’s List** (2022 - Present)  
+- 🏆 **Dean’s List** (2022 - 2026)  
 - 💼 **CS Advisory Board Student Representative**, PennWest University  
 - 🎖️ **Vulcan Merit Scholarship**  
 
