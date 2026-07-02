@@ -2,11 +2,21 @@
   <img src="./.github/workflows/Banner.png" style="max-width:100%; max-height: 80%;" alt="Banner">
 </p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=6B9B46&center=true&vCenter=true&width=520&lines=Building+reliable+backend+systems;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat+%F0%9F%8C%BF" alt="Typing SVG" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/status-actively--coding-2F4A1E?style=flat-square&labelColor=FAF9F0" />
+  <img src="https://komarev.com/ghpvc/?username=M0ck1ngjay178&style=flat-square&color=6b9b46&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/M0ck1ngjay178?style=flat-square&color=4B7B39&labelColor=FAF9F0" />
+</p>
 
-<br>
+<div align="center">
+
+&nbsp;
+
+</div>
 
 <h2 align="center">🌿 About Me</h2>
 
@@ -24,152 +34,134 @@ Outside of programming you'll usually find me riding dressage, working with hors
 </tr>
 </table>
 
-<br>
+<div align="center">
 
----
+&nbsp;
 
-<br>
+</div>
 
 <h2 align="center">⚡ Technology Arsenal</h2>
 
-<table align="center">
+<table align="center" width="100%">
 
 <tr>
-
 <td align="center" width="50%">
 
-### 💻 Languages
+**💻 Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,html,css,js&theme=light" />
 
 </td>
-
 <td align="center" width="50%">
 
-### ⚙ Frameworks
+**⚙️ Frameworks**
 
-<img src="https://skillicons.dev/icons?i=flask,hibernate,nodejs,bootstrap,react,nextjs"/>
+<img src="https://skillicons.dev/icons?i=flask,hibernate,nodejs,bootstrap,react,nextjs&theme=light" />
 
 </td>
-
 </tr>
 
-<tr><td height="35"></td></tr>
+<tr><td colspan="2" height="20"></td></tr>
 
 <tr>
+<td align="center" width="50%">
 
-<td align="center">
+**🛠️ Tools**
 
-### 🛠 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,maven,npm,vite"/>
-
-</td>
-
-<td align="center">
-
-### ☁ Cloud
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,firebase,linux,ubuntu,debian"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,maven,npm,vite&theme=light" />
 
 </td>
+<td align="center" width="50%">
 
+**☁️ Cloud & Systems**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,firebase,linux,ubuntu,debian&theme=light" />
+
+</td>
 </tr>
 
 </table>
 
-<br>
+<div align="center">
 
----
+&nbsp;
 
-<br>
+</div>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <table align="center">
 <tr>
 <td align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=M0ck1ngjay178&show_icons=true&hide_border=true&bg_color=faf9f0&title_color=2f4a1e&icon_color=6b9b46"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=M0ck1ngjay178&show_icons=true&hide_border=true&bg_color=FAF9F0&title_color=2F4A1E&text_color=4B7B39&icon_color=6B9B46&ring_color=6B9B46" />
 </td>
-
 <td align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0ck1ngjay178&layout=donut&hide_border=true&bg_color=faf9f0&title_color=2f4a1e"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0ck1ngjay178&layout=donut&hide_border=true&bg_color=FAF9F0&title_color=2F4A1E&text_color=4B7B39" />
 </td>
 </tr>
 </table>
 
-<br>
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=M0ck1ngjay178&hide_border=true&background=faf9f0&ring=6b9b46"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=M0ck1ngjay178&hide_border=true&background=FAF9F0&ring=6B9B46&fire=4B7B39&currStreakLabel=2F4A1E&sideLabels=2F4A1E&currStreakNum=2F4A1E&sideNums=2F4A1E&dates=6B9B46" />
 </p>
 
-<br>
-
-<h2 align="center">📈 Development Activity</h2>
+<h3 align="center">📈 Development Activity</h3>
 
 <p align="center">
-
-<img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=M0ck1ngjay178&bg_color=faf9f0&color=2f4a1e&line=6b9b46&point=4b7b39&area=true&hide_border=true"/>
-
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=M0ck1ngjay178&bg_color=FAF9F0&color=2F4A1E&line=6B9B46&point=4B7B39&area=true&area_color=6B9B46&hide_border=true" />
 </p>
 
-<br>
+<div align="center">
 
----
+&nbsp;
 
-<br>
+</div>
 
 <h2 align="center">🏆 Highlights</h2>
 
-<table align="center">
-
+<table align="center" width="100%">
 <tr>
+<td align="center" width="38%">
 
-<td align="center" width="33%">
+**🏆 Achievements**
 
-### 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=M0ck1ngjay178&theme=gruvbox&no-frame=true&column=3"/>
-
-</td>
-
-<td align="center" width="67%">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/M0ck1ngjay178/M0ck1ngjay178/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=M0ck1ngjay178&theme=gruvbox&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8" />
 
 </td>
+<td align="center" width="62%">
 
+**🐍 Contribution Snake**
+
+<img src="https://raw.githubusercontent.com/M0ck1ngjay178/M0ck1ngjay178/output/github-contribution-grid-snake.svg" width="100%" />
+
+</td>
 </tr>
-
 </table>
 
-<br>
+<div align="center">
 
----
+&nbsp;
 
-<br>
+</div>
 
 <h2 align="center">🌎 Let's Connect</h2>
+
 <p align="center">
-  <a href="https://github.com/M0ck1ngjay178"><img src="https://img.shields.io/badge/GitHub-2f4a1e?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4b7b39?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-6b9b46?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/M0ck1ngjay178"><img src="https://img.shields.io/badge/GitHub-2F4A1E?style=for-the-badge&logo=github&logoColor=FAF9F0"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4B7B39?style=for-the-badge&logo=linkedin&logoColor=FAF9F0"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-6B9B46?style=for-the-badge&logo=gmail&logoColor=FAF9F0"/></a>
 </p>
+
 <br>
-<br>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  <sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub>
 </p>
 
 <p align="center">
-<i>Code • Learn • Build • Repeat 🌿</i>
+  <i>Code • Learn • Build • Repeat 🌿</i>
 </p>
 
 <p align="center">
-<sub>Thanks for stopping by!</sub>
+  <sub>Thanks for stopping by!</sub>
 </p>
