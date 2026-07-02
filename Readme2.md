@@ -144,12 +144,56 @@ Outside of programming you'll usually find me riding dressage, working with hors
 
 </div>
 
+
+<h2 align="center">🎓 Education</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="700">
+
+### Pennsylvania Western University  
+#### Bachelor of Science — Computer Science  
+
+**🎓 Magna Cum Laude Latin Honors**  
+**📅 Graduated: May 2026**  
+**📍 California, Pennsylvania**
+** GPA: 3.75**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2 align="center">🌎 Let's Connect</h2>
 
 <p align="center">
   <a href="https://github.com/M0ck1ngjay178"><img src="https://img.shields.io/badge/GitHub-2F4A1E?style=for-the-badge&logo=github&logoColor=FAF9F0"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4B7B39?style=for-the-badge&logo=linkedin&logoColor=FAF9F0"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-6B9B46?style=for-the-badge&logo=gmail&logoColor=FAF9F0"/></a>
+  <a href="https://linkedin.com/in/margo-b-82096432a/"><img src="https://img.shields.io/badge/LinkedIn-4B7B39?style=for-the-badge&logo=linkedin&logoColor=FAF9F0"/></a>
+  <a href="mailto:margobonal11010@gmail.com"><img src="https://img.shields.io/badge/Email-6B9B46?style=for-the-badge&logo=gmail&logoColor=FAF9F0"/></a>
 </p>
 
 <br>
@@ -159,9 +203,5 @@ Outside of programming you'll usually find me riding dressage, working with hors
 </p>
 
 <p align="center">
-  <i>Code • Learn • Build • Repeat 🌿</i>
-</p>
-
-<p align="center">
-  <sub>Thanks for stopping by!</sub>
+  <i>“We are what we repeatedly do. Excellence, therefore, is not an act but a habit."— Aristotle</i>
 </p>
