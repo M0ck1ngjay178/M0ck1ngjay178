@@ -17,62 +17,36 @@
 &nbsp;
 
 </div>
+
+
 <h2 align="center">🌿 About Me</h2>
-
-<table align="center" width="80%" style="
-  background: #f6f4ec;
-  border: 1px solid #d7d2c6;
-  border-radius: 14px;
-  padding: 20px;
-">
-
+ 
+<table align="center" width="80%" style="background:#FAF9F0; border:1px solid #6B9B46; border-radius:14px;">
 <tr>
-<td style="
-  padding: 30px;
-  color: #1f3a17;
-  font-size: 15px;
-  line-height: 1.7;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif;
-">
-
-<div align="center">
-
-<h3 style="margin-bottom: 10px; color:#2f4a1e;">
-Software Engineer • Problem Solver • Architect
-</h3>
-
-</div>
-
----
-
+<td style="padding:30px; color:#2F4A1E; font-size:15px; line-height:1.7; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">
 I am passionate about **software engineering**, problem-solving, and continuous learning. My experience includes full-stack development, APIs, databases, and collaborating with teams to build secure and effective software solutions.
-
+ 
 <br>
-
-I graduated from **Pennsylvania Western University**, earning **Magna Cum Laude Latin Honors** and placement on the **Dean’s List all four years**, reflecting strong academic consistency and discipline.
-
+I graduated from **Pennsylvania Western University**, earning **Magna Cum Laude Latin Honors** and placement on the **Dean's List all four years**, reflecting strong academic consistency and discipline.
+ 
 <br>
-
 Outside of technology, I am an avid equestrian with **13 years of experience**, training two horses in dressage — a discipline that has shaped my focus, patience, and precision.
-
+ 
 <br>
-
 I also have a strong interest in **wildlife conservation and agriculture**, and I enjoy building projects that combine creativity with real-world impact.
-
-<br><br>
-
-<div align="center">
-
-<i style="color:#4b7b39;">
-Always learning. Always building. Always improving.
-</i>
-
-</div>
-
+ 
 </td>
 </tr>
-
 </table>
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 &nbsp;
