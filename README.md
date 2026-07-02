@@ -15,7 +15,6 @@
 <div align="center">
 &nbsp;
 </div>
-
 <h2 align="center">🌿 About Me</h2>
 
 <table align="center" width="85%" style="
@@ -26,31 +25,27 @@
 
 <tr>
 <td style="
-  padding: 26px;
+  padding: 22px;
   color: #1f3a17;
   font-size: 15px;
-  line-height: 1.75;
+  line-height: 1.7;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial;
 ">
 
-I am passionate about **Software Engineer**, problem-solving, and continuous learning. My experience includes full-stack development, APIs, databases, and building secure and scalable software systems.
+<ul style="margin: 0; padding-left: 18px;">
+  <li>💻 Software engineer focused on full-stack development, APIs, databases, and secure systems</li>
 
-<br>
+  <li>🎓 Pennsylvania Western University graduate — Magna Cum Laude, Dean’s List (4 years)</li>
 
-I graduated from **Pennsylvania Western University** Class 2026, earning **Magna Cum Laude Latin Honors** and placement on the **Dean’s List all four years**, reflecting strong academic consistency and discipline.
+  <li>🐎 Equestrian (13 years) — train two dressage horses; discipline shaped focus and precision</li>
 
-<br>
+  <li>🌱 Interests in wildlife conservation, agriculture, and building real-world impactful software</li>
+</ul>
 
-Outside of technology, I am an avid equestrian with **13 years of experience**, training two horses in dressage — a discipline that has shaped my focus, patience, and precision.
-
-<br>
-
-I also have a strong interest in **wildlife conservation and agriculture**, and I enjoy building projects that connect engineering with real-world impact.
 </td>
 </tr>
 
 </table>
-
 
 
 
@@ -86,6 +81,7 @@ I also have a strong interest in **wildlife conservation and agriculture**, and 
 <div align="center">
 &nbsp;
 </div>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,mysql,cobol,prolog,assembly,flask,hibernate,nodejs,react,nextjs,bootstrap,pytorch,git,github,vscode,visualstudio,maven,npm,vite,postman,postgres,linux,windows,wsl,docker,azure,raspberrypi,arduino,mingw,virtualbox,kicad" />
