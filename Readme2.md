@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=6B9B46&center=true&vCenter=true&width=520&lines=Building+reliable+backend+systems;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat+%F0%9F%8C%BF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=6B9B46&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Margo+%F0%9F%91%8B;Building+reliable+backend+systems;Full+Stack+%7C+Cybersecurity+%7C+Networking;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat+%F0%9F%8C%BF" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,6 +28,8 @@ I enjoy creating software that is reliable, maintainable, and enjoyable to use.
 
 My current focus is **Java**, **backend development**, **system design**, and building larger real-world applications such as the **Vulcan Activity Tracker**.
 
+I'm equally passionate about **full stack development**, **cybersecurity**, and **networking** — I love building user-friendly applications, designing secure systems, and exploring innovative tech wherever it takes me.
+
 Outside of programming you'll usually find me riding dressage, working with horses, or enjoying wildlife and agriculture.
 
 </td>
@@ -40,47 +42,149 @@ Outside of programming you'll usually find me riding dressage, working with hors
 
 </div>
 
+<h2 align="center">🎓 Education</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="700">
+
+### Pennsylvania Western University
+#### Bachelor of Science — Computer Science
+
+<br>
+
+<img src="https://img.shields.io/badge/🎓_Magna_Cum_Laude-2F4A1E?style=flat-square&labelColor=FAF9F0&color=2F4A1E"/>
+<img src="https://img.shields.io/badge/📅_Graduated_May_2026-4B7B39?style=flat-square&labelColor=FAF9F0&color=4B7B39"/>
+<img src="https://img.shields.io/badge/📍_California,_PA-6B9B46?style=flat-square&labelColor=FAF9F0&color=6B9B46"/>
+<img src="https://img.shields.io/badge/GPA_3.75-2F4A1E?style=flat-square&labelColor=FAF9F0&color=2F4A1E"/>
+<img src="https://img.shields.io/badge/🏆_Dean's_List_(2022--2026)-4B7B39?style=flat-square&labelColor=FAF9F0&color=4B7B39"/>
+<br><br>
+<img src="https://img.shields.io/badge/💼_CS_Advisory_Board_Student_Representative,_PennWest_University-6B9B46?style=flat-square&labelColor=FAF9F0&color=6B9B46"/>
+<br><br>
+<img src="https://img.shields.io/badge/🎖️_Vulcan_Merit_Scholarship-2F4A1E?style=flat-square&labelColor=FAF9F0&color=2F4A1E"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+&nbsp;
+
+</div>
+
+
 <h2 align="center">⚡ Technology Arsenal</h2>
 
 <table align="center" width="100%">
 
+<!-- ================= LANGUAGES ================= -->
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-**💻 Languages**
+<h3>💻 Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,html,css,js&theme=light" />
+<p align="center">
+<img height="42" src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
+</p>
+
+<p align="center">
+<img height="42" src="https://skillicons.dev/icons?i=html,css,mysql" />
+</p>
+
+<p align="center">
+<img height="42" src="https://skillicons.dev/icons?i=cobol,prolog,assembly" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/API_Design-2F4A1E?style=for-the-badge&labelColor=FAF9F0&color=2F4A1E"/>
+<img src="https://img.shields.io/badge/Vector_DB-4B7B39?style=for-the-badge&labelColor=FAF9F0&color=4B7B39"/>
+</p>
 
 </td>
-<td align="center" width="50%">
 
-**⚙️ Frameworks**
+<!-- ================= FRAMEWORKS ================= -->
+<td align="center" width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=flask,hibernate,nodejs,bootstrap,react,nextjs&theme=light" />
+<h3>⚙️ Frameworks</h3>
+
+<p align="center">
+<img height="42" src="https://skillicons.dev/icons?i=flask,hibernate,nodejs" />
+</p>
+
+<p align="center">
+<img height="42" src="https://skillicons.dev/icons?i=react,nextjs,bootstrap" />
+</p>
+
+<p align="center">
+<img height="42" src="https://skillicons.dev/icons?i=pytorch" />
+</p>
 
 </td>
 </tr>
 
-<tr><td colspan="2" height="20"></td></tr>
-
+<!-- ================= TOOLS + SYSTEMS ================= -->
 <tr>
-<td align="center" width="50%">
 
-**🛠️ Tools**
+<td align="center" width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,maven,npm,vite&theme=light" />
+<h3>🛠 Tools</h3>
+
+<p align="center">
+<img height="42" src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
+
+<p align="center">
+<img height="42" src="https://skillicons.dev/icons?i=maven,npm,vite,postman" />
+</p>
+
+<p align="center">
+<img height="42" src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MinGW-4B7B39?style=for-the-badge&labelColor=FAF9F0&color=4B7B39"/>
+<img src="https://img.shields.io/badge/VirtualBox-6B9B46?style=for-the-badge&labelColor=FAF9F0&color=6B9B46"/>
+</p>
 
 </td>
-<td align="center" width="50%">
 
-**☁️ Cloud & Systems**
+<td align="center" width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,firebase,linux,ubuntu,debian&theme=light" />
+<h3>☁️ Systems</h3>
+
+<p align="center">
+<img height="42" src="https://skillicons.dev/icons?i=linux,windows,wsl,docker" />
+</p>
+
+<p align="center">
+<img height="42" src="https://skillicons.dev/icons?i=azure,raspberrypi,arduino" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/KiCad-4B7B39?style=for-the-badge&labelColor=FAF9F0&color=4B7B39"/>
+<img src="https://img.shields.io/badge/PCB_Design-2F4A1E?style=for-the-badge&labelColor=FAF9F0&color=2F4A1E"/>
+<img src="https://img.shields.io/badge/Soldering-6B9B46?style=for-the-badge&labelColor=FAF9F0&color=6B9B46"/>
+</p>
 
 </td>
+
 </tr>
 
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
 
@@ -143,51 +247,6 @@ Outside of programming you'll usually find me riding dressage, working with hors
 &nbsp;
 
 </div>
-
-
-<h2 align="center">🎓 Education</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="700">
-
-### Pennsylvania Western University  
-#### Bachelor of Science — Computer Science  
-
-**🎓 Magna Cum Laude Latin Honors**  
-**📅 Graduated: May 2026**  
-**📍 California, Pennsylvania**
-** GPA: 3.75**
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2 align="center">🌎 Let's Connect</h2>
 
 <p align="center">
