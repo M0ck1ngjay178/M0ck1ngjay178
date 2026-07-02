@@ -57,7 +57,7 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,mysql,cobol,prolog,asm,flask,hibernate,nodejs,react,nextjs,bootstrap,pytorch,git,github,vscode,visualstudio,maven,npm,vite,postman,postgres,linux,windows,wsl,docker,azure,raspberrypi,arduino,mingw,virtualbox,kicad" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,mysql,flask,hibernate,nodejs,react,nextjs,bootstrap,pytorch,git,github,vscode,visualstudio,maven,npm,vite,postman,postgres,linux,windows,docker,azure,raspberrypi,arduino,mingw,virtualbox,kicad" />
 </p>
 
 <p align="center">
