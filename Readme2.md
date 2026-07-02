@@ -1,142 +1,175 @@
-<div align="center">
-  <img src="\.github\workflows\horse.png" width="100%" alt="Margo B — Software Engineer" />
-</div>
-
-
 <p align="center">
-  <a href="https://github.com/M0ck1ngjay178"><img src="https://img.shields.io/badge/-GitHub-2f4a1e?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-3f6b2b?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-4f8a3e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="./.github/workflows/horse.png" style="max-width:100%; max-height: 80%;" alt="Banner">
 </p>
 
-<br/>
+<br>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 About Me
-
-- 🔭 Currently building **Vulcan Activity Tracker**
-- 🌿 Learning system design & advanced algorithms
-- 💻 Working mostly in **Java, Python, SQL, C++**
-- 💬 Ask me about backend architecture or dev tooling
-- 📫 Reach me at **your-email@example.com**
-
-</td>
-<!-- ================= ABOUT ================= -->
-
-## 🌱 About Me
-
-- 🔭 Currently building **Vulcan Activity Tracker**
-- 🌿 Learning **System Design** & **Advanced Algorithms**
-- 💻 Primarily developing with **Java, Python, SQL, and C++**
-- 🎓 Computer Science Graduate • Magna Cum Laude
-- 🐴 Dressage rider, software engineer, and lifelong learner
 ---
 
-## 💻 Languages
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java" height="42"/>
-<img src="https://skillicons.dev/icons?i=python" height="42"/>
-<img src="https://skillicons.dev/icons?i=c" height="42"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="42"/>
-<img src="https://skillicons.dev/icons?i=js" height="42"/>
-<img src="https://skillicons.dev/icons?i=html" height="42"/>
-<img src="https://skillicons.dev/icons?i=css" height="42"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="42"/>
-</p>
+<h2 align="center">🌿 About Me</h2>
 
-## ⚙️ Frameworks
+<table align="center">
+<tr>
+<td width="750">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react" height="42"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="42"/>
-<img src="https://skillicons.dev/icons?i=nextjs" height="42"/>
-<img src="https://skillicons.dev/icons?i=flask" height="42"/>
-<img src="https://skillicons.dev/icons?i=hibernate" height="42"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="42"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="42"/>
-</p>
+I enjoy creating software that is reliable, maintainable, and enjoyable to use.
 
-## 🛠 Tools
+My current focus is **Java**, **backend development**, **system design**, and building larger real-world applications such as the **Vulcan Activity Tracker**.
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode" height="42"/>
-<img src="https://skillicons.dev/icons?i=visualstudio" height="42"/>
-<img src="https://skillicons.dev/icons?i=postman" height="42"/>
-<img src="https://skillicons.dev/icons?i=maven" height="42"/>
-<img src="https://skillicons.dev/icons?i=npm" height="42"/>
-<img src="https://skillicons.dev/icons?i=vite" height="42"/>
-<img src="https://skillicons.dev/icons?i=vim" height="42"/>
-<img src="https://skillicons.dev/icons?i=md" height="42"/>
-</p>
+Outside of programming you'll usually find me riding dressage, working with horses, or enjoying wildlife and agriculture.
 
-## ☁️ Cloud & DevOps
+</td>
+</tr>
+</table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws" height="42"/>
-<img src="https://skillicons.dev/icons?i=azure" height="42"/>
-<img src="https://skillicons.dev/icons?i=docker" height="42"/>
-<img src="https://skillicons.dev/icons?i=firebase" height="42"/>
-<img src="https://skillicons.dev/icons?i=bash" height="42"/>
-</p>
+<br>
 
-## 🐧 Operating Systems
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux" height="42"/>
-<img src="https://skillicons.dev/icons?i=ubuntu" height="42"/>
-<img src="https://skillicons.dev/icons?i=debian" height="42"/>
-<img src="https://skillicons.dev/icons?i=redhat" height="42"/>
-<img src="https://skillicons.dev/icons?i=raspberrypi" height="42"/>
-</p>
-<div align="center">
+<br>
 
-![Repos](https://img.shields.io/github/repos-counter/YOUR_GITHUB_USERNAME?style=for-the-badge&label=Repositories&color=6b9b46)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&label=Followers&color=3f6b2b)
+<h2 align="center">⚡ Technology Arsenal</h2>
 
-</div>
+<table align="center">
 
-<h3 align="center">📊 GitHub Stats</h3>
+<tr>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=faf9f0&title_color=1f3a17&text_color=3f6b2b&icon_color=4f8a3e&border_color=cfa77a" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&hide_border=true&bg_color=faf9f0&title_color=1f3a17&text_color=3f6b2b" />
-</div>
+<td align="center" width="50%">
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M0ck1ngjay178&hide_border=true&background=faf9f0&ring=4f8a3e&fire=6b9b46&currStreakLabel=1f3a17&sideLabels=3f6b2b&currStreakNum=1f3a17&sideNums=1f3a17&dates=5a6b52" />
-</div>
+### 💻 Languages
 
-<h3 align="center">📈 Activity Overview</h3>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,html,css,js"/>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=M0ck1ngjay178&bg_color=faf9f0&color=1f3a17&line=4f8a3e&point=3f6b2b&area=true&area_color=6b9b46&title_color=1f3a17&hide_border=true" />
-</div>
+</td>
 
-<h3 align="center">🏆 Achievements</h3>
+<td align="center" width="50%">
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M0ck1ngjay178&theme=gruvbox&no-frame=true&row=1&column=7" />
-</div>
+### ⚙ Frameworks
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<img src="https://skillicons.dev/icons?i=flask,hibernate,nodejs,bootstrap,react,nextjs"/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/M0ck1ngjay178/M0ck1ngjay178/output/github-contribution-grid-snake.svg" />
-</div>
+</td>
 
-<h3 align="center">🌿 Let's Connect</h3>
+</tr>
+
+<tr><td height="35"></td></tr>
+
+<tr>
+
+<td align="center">
+
+### 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,maven,npm,vite"/>
+
+</td>
+
+<td align="center">
+
+### ☁ Cloud
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,firebase,linux,ubuntu,debian"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<table align="center">
+<tr>
+<td align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=M0ck1ngjay178&show_icons=true&hide_border=true&bg_color=faf9f0&title_color=2f4a1e&icon_color=6b9b46"/>
+</td>
+
+<td align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0ck1ngjay178&layout=donut&hide_border=true&bg_color=faf9f0&title_color=2f4a1e"/>
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-4f8a3e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-3f6b2b?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/-Twitter-6b9b46?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://dev.to/YOUR_DEVTO"><img src="https://img.shields.io/badge/-Dev.to-2f4a1e?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-  <a href="https://hashnode.com/@YOUR_HASHNODE"><img src="https://img.shields.io/badge/-Hashnode-4f8a3e?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/-Instagram-3f6b2b?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=M0ck1ngjay178&hide_border=true&background=faf9f0&ring=6b9b46"/>
 </p>
 
-<p align="center"><i>Code · Learn · Build · Repeat 🌿</i></p>
+<br>
+
+<h2 align="center">📈 Development Activity</h2>
+
+<p align="center">
+
+<img width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=M0ck1ngjay178&bg_color=faf9f0&color=2f4a1e&line=6b9b46&point=4b7b39&area=true&hide_border=true"/>
+
+</p>
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">🏆 Highlights</h2>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=M0ck1ngjay178&theme=gruvbox&no-frame=true&column=3"/>
+
+</td>
+
+<td align="center" width="67%">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/M0ck1ngjay178/M0ck1ngjay178/output/github-contribution-grid-snake.svg"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">🌎 Let's Connect</h2>
+<p align="center">
+  <a href="https://github.com/M0ck1ngjay178"><img src="https://img.shields.io/badge/GitHub-2f4a1e?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4b7b39?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-6b9b46?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+<br>
+<br>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<p align="center">
+<i>Code • Learn • Build • Repeat 🌿</i>
+</p>
+
+<p align="center">
+<sub>Thanks for stopping by!</sub>
+</p>
