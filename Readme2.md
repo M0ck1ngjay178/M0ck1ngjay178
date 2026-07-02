@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="\.github\workflows\hero.svg" width="100%" alt="Margo B — Software Engineer" />
+  <img src="\.github\workflows\horse.png" width="100%" alt="Margo B — Software Engineer" />
 </div>
 
 
