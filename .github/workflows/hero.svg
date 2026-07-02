@@ -1,0 +1,53 @@
+<svg width="1200" height="529" viewBox="0 0 1200 529" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="529" fill="#faf9f0"/>
+<text x="70" y="141" font-family="Georgia, serif" font-size="81" font-weight="700" fill="#1f3a17">MARGO B</text>
+<text x="70" y="191" font-family="Verdana, sans-serif" font-size="23" letter-spacing="2" font-weight="700" fill="#3f6b2b">SOFTWARE ENGINEER</text>
+<text x="70" y="247" font-family="Verdana, sans-serif" font-size="23" fill="#5a6b52">Passionate about building reliable, scalable</text>
+<text x="70" y="279" font-family="Verdana, sans-serif" font-size="23" fill="#5a6b52">software and solving meaningful problems.</text>
+
+<path d="M600,335 L724,194 L794,274 L874,159 L988,335 Z" fill="#c9d6c3"/>
+<path d="M741,335 L847,229 L953,335 Z" fill="#b8c9b0"/>
+
+<g fill="#2f4a1e">
+<polygon points="671,335 644,265 697,265"/>
+<polygon points="671,309 639,247 702,247"/>
+<polygon points="671,282 646,229 695,229"/>
+<rect x="665" y="332" width="11" height="25"/>
+</g>
+<g fill="#3f6b2b">
+<polygon points="1059,335 1038,279 1080,279"/>
+<polygon points="1059,314 1034,265 1084,265"/>
+<rect x="1054" y="332" width="11" height="21"/>
+</g>
+
+<line x1="600" y1="406" x2="1165" y2="406" stroke="#cfa77a" stroke-width="7"/>
+
+<polygon points="609,353 679,353 669,392 619,392" fill="#a9673c"/>
+
+<g fill="#4f8a3e">
+<path d="M644,353 C627,318 618,282 639,244 C650,286 650,321 650,353 Z"/>
+<path d="M644,353 C667,321 685,290 671,251 C657,290 650,325 644,353 Z"/>
+<path d="M644,353 C614,332 593,304 604,268 C625,297 639,328 644,353 Z"/>
+<path d="M644,353 C674,335 699,311 692,275 C667,300 650,332 644,353 Z"/>
+</g>
+
+<rect x="777" y="265" width="198" height="116" rx="9" fill="#1e2b22"/>
+<rect x="798" y="288" width="74" height="11" rx="3" fill="#e0b15c"/>
+<rect x="798" y="309" width="106" height="11" rx="3" fill="#6ea88a"/>
+<rect x="798" y="330" width="60" height="11" rx="3" fill="#d98266"/>
+<rect x="798" y="351" width="88" height="11" rx="3" fill="#cfd9c5"/>
+<polygon points="750,395 1001,395 974,381 777,381" fill="#e3e0cf"/>
+
+<g fill="#4a7c3f">
+<rect x="1045" y="346" width="46" height="39" rx="5"/>
+<path d="M1091,351 Q1112,351 1112,367 Q1112,383 1091,379" fill="none" stroke="#4a7c3f" stroke-width="5"/>
+</g>
+<g stroke="#a9b79f" stroke-width="3" fill="none" stroke-linecap="round">
+<path d="M1055,335 Q1063,321 1055,309"/>
+<path d="M1073,335 Q1080,321 1073,309"/>
+</g>
+
+<rect x="1080" y="374" width="78" height="18" rx="3" fill="#6b9b46"/>
+<rect x="1083" y="357" width="71" height="18" rx="3" fill="#4f8a3e"/>
+<rect x="1087" y="339" width="64" height="18" rx="3" fill="#3f6b2b"/>
+</svg>
