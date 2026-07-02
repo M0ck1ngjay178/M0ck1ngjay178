@@ -24,23 +24,74 @@
 - 📫 Reach me at **your-email@example.com**
 
 </td>
-<td width="50%" valign="top">
+<!-- ================= ABOUT ================= -->
 
-### 🛠 Tech Stack
+## 🌱 About Me
+
+- 🔭 Currently building **Vulcan Activity Tracker**
+- 🌿 Learning **System Design** & **Advanced Algorithms**
+- 💻 Primarily developing with **Java, Python, SQL, and C++**
+- 🎓 Computer Science Graduate • Magna Cum Laude
+- 🐴 Dressage rider, software engineer, and lifelong learner
+---
+
+## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java" height="40" title="Java" />
-<img src="https://skillicons.dev/icons?i=python" height="40" title="Python" />
-<img src="https://skillicons.dev/icons?i=cpp" height="40" title="C++" />
-<img src="https://skillicons.dev/icons?i=mysql" height="40" title="SQL" />
-<img src="https://skillicons.dev/icons?i=spring" height="40" title="Spring" />
-<img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker" />
+<img src="https://skillicons.dev/icons?i=java" height="42"/>
+<img src="https://skillicons.dev/icons?i=python" height="42"/>
+<img src="https://skillicons.dev/icons?i=c" height="42"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="42"/>
+<img src="https://skillicons.dev/icons?i=js" height="42"/>
+<img src="https://skillicons.dev/icons?i=html" height="42"/>
+<img src="https://skillicons.dev/icons?i=css" height="42"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="42"/>
 </p>
 
-</td>
-</tr>
-</table>
+## ⚙️ Frameworks
 
+<p>
+<img src="https://skillicons.dev/icons?i=react" height="42"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="42"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="42"/>
+<img src="https://skillicons.dev/icons?i=flask" height="42"/>
+<img src="https://skillicons.dev/icons?i=hibernate" height="42"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="42"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="42"/>
+</p>
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode" height="42"/>
+<img src="https://skillicons.dev/icons?i=visualstudio" height="42"/>
+<img src="https://skillicons.dev/icons?i=postman" height="42"/>
+<img src="https://skillicons.dev/icons?i=maven" height="42"/>
+<img src="https://skillicons.dev/icons?i=npm" height="42"/>
+<img src="https://skillicons.dev/icons?i=vite" height="42"/>
+<img src="https://skillicons.dev/icons?i=vim" height="42"/>
+<img src="https://skillicons.dev/icons?i=md" height="42"/>
+</p>
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" height="42"/>
+<img src="https://skillicons.dev/icons?i=azure" height="42"/>
+<img src="https://skillicons.dev/icons?i=docker" height="42"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="42"/>
+<img src="https://skillicons.dev/icons?i=bash" height="42"/>
+</p>
+
+## 🐧 Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux" height="42"/>
+<img src="https://skillicons.dev/icons?i=ubuntu" height="42"/>
+<img src="https://skillicons.dev/icons?i=debian" height="42"/>
+<img src="https://skillicons.dev/icons?i=redhat" height="42"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi" height="42"/>
+</p>
 <div align="center">
 
 ![Repos](https://img.shields.io/github/repos-counter/YOUR_GITHUB_USERNAME?style=for-the-badge&label=Repositories&color=6b9b46)
