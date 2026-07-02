@@ -20,8 +20,6 @@
 
   - 🌱 Interests in wildlife conservation, agriculture, and building real-world impactful software
 ---
-
-
 <div align="center">
 &nbsp;
 </div>
@@ -54,7 +52,7 @@
 <div align="center">
 &nbsp;
 </div>
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,mysql,flask,hibernate,nodejs,react,nextjs,bootstrap,pytorch,git,github,vscode,visualstudio,maven,npm,vite,postman,postgres,linux,windows,docker,azure,raspberrypi,arduino,mingw,virtualbox,kicad" />
