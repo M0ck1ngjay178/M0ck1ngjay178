@@ -1,11 +1,6 @@
 <p align="center">
   <img src="./.github/workflows/Banner.png" style="max-width:100%; max-height: 80%;" alt="Banner">
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=6B9B46&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Margo+%F0%9F%91%8B;Building+reliable+backend+systems;Full+Stack+%7C+Cybersecurity+%7C+Networking;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat+%F0%9F%8C%BF" alt="Typing SVG" />
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/status-actively--coding-2F4A1E?style=flat-square&labelColor=FAF9F0" />
   <img src="https://komarev.com/ghpvc/?username=M0ck1ngjay178&style=flat-square&color=6b9b46&label=Profile+Views" />
@@ -17,36 +12,14 @@
 </div>
 <h2 align="center">🌿 About Me</h2>
 
-<table align="center" width="85%" style="
-  border: 1px solid #d8d2c6;
-  border-radius: 12px;
-  background-color: #faf9f0;
-">
+  - 💻 Software engineer focused on full-stack development, APIs, databases, and secure systems
 
-<tr>
-<td style="
-  padding: 22px;
-  color: #1f3a17;
-  font-size: 15px;
-  line-height: 1.7;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial;
-">
+  - 🎓 Pennsylvania Western University graduate — Magna Cum Laude, Dean’s List (4 years)
 
-<ul style="margin: 0; padding-left: 18px;">
-  <li>💻 Software engineer focused on full-stack development, APIs, databases, and secure systems</li>
+  - 🐎 Equestrian (13 years) — train two dressage horses; discipline shaped focus and precision
 
-  <li>🎓 Pennsylvania Western University graduate — Magna Cum Laude, Dean’s List (4 years)</li>
-
-  <li>🐎 Equestrian (13 years) — train two dressage horses; discipline shaped focus and precision</li>
-
-  <li>🌱 Interests in wildlife conservation, agriculture, and building real-world impactful software</li>
-</ul>
-
-</td>
-</tr>
-
-</table>
-
+  - 🌱 Interests in wildlife conservation, agriculture, and building real-world impactful software
+---
 
 
 <div align="center">
