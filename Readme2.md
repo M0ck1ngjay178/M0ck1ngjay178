@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/workflows/horse.png" style="max-width:100%; max-height: 80%;" alt="Banner">
+  <img src="./.github/workflows/Banner.png" style="max-width:100%; max-height: 80%;" alt="Banner">
 </p>
 
 <br>
