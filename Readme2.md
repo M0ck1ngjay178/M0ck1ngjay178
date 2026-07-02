@@ -13,23 +13,49 @@
 </p>
 
 <div align="center">
-
 &nbsp;
-
 </div>
 
-</div>
 <h2 align="center">🌿 About Me</h2>
-<p align="center">
-  <img src="./.github/workflows/about.svg" width="80%" alt="About Me">
-</p>
-<div align="center">
+
+<table align="center" width="85%" style="
+  border: 1px solid #d8d2c6;
+  border-radius: 12px;
+  background-color: #faf9f0;
+">
+
+<tr>
+<td style="
+  padding: 26px;
+  color: #1f3a17;
+  font-size: 15px;
+  line-height: 1.75;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial;
+">
+
+I am passionate about **software engineering**, problem-solving, and continuous learning. My experience includes full-stack development, APIs, databases, and building secure and scalable software systems.
+
+<br>
+
+I graduated from **Pennsylvania Western University**, earning **Magna Cum Laude Latin Honors** and placement on the **Dean’s List all four years**, reflecting strong academic consistency and discipline.
+
+<br>
+
+Outside of technology, I am an avid equestrian with **13 years of experience**, training two horses in dressage — a discipline that has shaped my focus, patience, and precision.
+
+<br>
+
+I also have a strong interest in **wildlife conservation and agriculture**, and I enjoy building projects that connect engineering with real-world impact.
+</td>
+</tr>
+
+</table>
+
+
 
 
 <div align="center">
-
 &nbsp;
-
 </div>
 
 <h2 align="center">🎓 Education</h2>
