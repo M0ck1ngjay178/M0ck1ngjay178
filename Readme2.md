@@ -17,24 +17,62 @@
 &nbsp;
 
 </div>
-
 <h2 align="center">🌿 About Me</h2>
 
-<table align="center">
+<table align="center" width="80%" style="
+  background: #f6f4ec;
+  border: 1px solid #d7d2c6;
+  border-radius: 14px;
+  padding: 20px;
+">
+
 <tr>
-<td width="750">
-I am passionate about Software Engineer, problem-solving, and continuous learning. My experience includes full-stack development, APIs, databases, and collaborating with teams to build secure and effective software solutions.
+<td style="
+  padding: 30px;
+  color: #1f3a17;
+  font-size: 15px;
+  line-height: 1.7;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif;
+">
 
-I graduated from Pennsylvania Western University, graduating with Magna Cum Laude Latin Honors and earning a place on the Dean’s List all four years, reflecting my commitment to academic excellence. 
+<div align="center">
 
-Outside of technology, I am an avid equestrian with 13 years of experience, where I train my two horses in the discipline of dressage, a sport that has taught me discipline, patience, and the value of consistent improvement—qualities I bring to both my professional and personal life. I additionally have a strong interest in wildlife conservation and agriculture.
+<h3 style="margin-bottom: 10px; color:#2f4a1e;">
+Software Engineer • Problem Solver • Architect
+</h3>
 
-I am always seeking opportunities to learn, contribute, connect with others, and make a meaningful impact. Feel free to connect!
+</div>
+
+---
+
+I am passionate about **software engineering**, problem-solving, and continuous learning. My experience includes full-stack development, APIs, databases, and collaborating with teams to build secure and effective software solutions.
+
+<br>
+
+I graduated from **Pennsylvania Western University**, earning **Magna Cum Laude Latin Honors** and placement on the **Dean’s List all four years**, reflecting strong academic consistency and discipline.
+
+<br>
+
+Outside of technology, I am an avid equestrian with **13 years of experience**, training two horses in dressage — a discipline that has shaped my focus, patience, and precision.
+
+<br>
+
+I also have a strong interest in **wildlife conservation and agriculture**, and I enjoy building projects that combine creativity with real-world impact.
+
+<br><br>
+
+<div align="center">
+
+<i style="color:#4b7b39;">
+Always learning. Always building. Always improving.
+</i>
+
+</div>
 
 </td>
 </tr>
-</table>
 
+</table>
 <div align="center">
 
 &nbsp;
