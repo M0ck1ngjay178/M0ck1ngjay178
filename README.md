@@ -87,87 +87,14 @@ I also have a strong interest in **wildlife conservation and agriculture**, and 
 &nbsp;
 </div>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,mysql,cobol,prolog,assembly,flask,hibernate,nodejs,react,nextjs,bootstrap,pytorch,git,github,vscode,visualstudio,maven,npm,vite,postman,postgres,linux,windows,wsl,docker,azure,raspberrypi,arduino,mingw,virtualbox,kicad" />
+</p>
 
-<table align="center" width="100%">
-
-<!-- ================= ROW 1 ================= -->
-<tr>
-<td align="center" colspan="2">
-
-<h3>💻 Languages</h3>
-
-<img height="42" src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,mysql,cobol,prolog,assembly" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/API_Design-2F4A1E?style=for-the-badge&labelColor=FAF9F0&color=2F4A1E"/>
-<img src="https://img.shields.io/badge/Vector_DB-4B7B39?style=for-the-badge&labelColor=FAF9F0&color=4B7B39"/>
-
-</td>
-</tr>
-
-<!-- ================= ROW 2 ================= -->
-<tr>
-<td align="center">
-
-<h3>⚙️ Frameworks</h3>
-
-<img height="42" src="https://skillicons.dev/icons?i=flask,hibernate,nodejs,react,nextjs,bootstrap,pytorch" />
-
-</td>
-
-<td align="center">
-
-<h3>🛠 Tools</h3>
-
-<img height="42" src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,maven,npm,vite,postman,mysql,postgres" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/MinGW-4B7B39?style=for-the-badge&labelColor=FAF9F0&color=4B7B39"/>
-<img src="https://img.shields.io/badge/VirtualBox-6B9B46?style=for-the-badge&labelColor=FAF9F0&color=6B9B46"/>
-
-</td>
-</tr>
-
-<!-- ================= ROW 3 ================= -->
-<tr>
-<td align="center" colspan="2">
-
-<h3>☁️ Systems</h3>
-
-<img height="42" src="https://skillicons.dev/icons?i=linux,windows,wsl,docker,azure,raspberrypi,arduino" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/KiCad-4B7B39?style=for-the-badge&labelColor=FAF9F0&color=4B7B39"/>
-<img src="https://img.shields.io/badge/PCB_Design-2F4A1E?style=for-the-badge&labelColor=FAF9F0&color=2F4A1E"/>
-<img src="https://img.shields.io/badge/Soldering-6B9B46?style=for-the-badge&labelColor=FAF9F0&color=6B9B46"/>
-
-</td>
-</tr>
-
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/PCB_Design-2F4A1E?style=for-the-badge&labelColor=FAF9F0&color=2F4A1E"/>
+  <img src="https://img.shields.io/badge/Soldering-6B9B46?style=for-the-badge&labelColor=FAF9F0&color=6B9B46"/>
+</p>
 
 
 <div align="center">
