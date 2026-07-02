@@ -23,14 +23,13 @@
 <table align="center">
 <tr>
 <td width="750">
+I am passionate about Software Engineer, problem-solving, and continuous learning. My experience includes full-stack development, APIs, databases, and collaborating with teams to build secure and effective software solutions.
 
-I enjoy creating software that is reliable, maintainable, and enjoyable to use.
+I graduated from Pennsylvania Western University, graduating with Magna Cum Laude Latin Honors and earning a place on the Dean’s List all four years, reflecting my commitment to academic excellence. 
 
-My current focus is **Java**, **backend development**, **system design**, and building larger real-world applications such as the **Vulcan Activity Tracker**.
+Outside of technology, I am an avid equestrian with 13 years of experience, where I train my two horses in the discipline of dressage, a sport that has taught me discipline, patience, and the value of consistent improvement—qualities I bring to both my professional and personal life. I additionally have a strong interest in wildlife conservation and agriculture.
 
-I'm equally passionate about **full stack development**, **cybersecurity**, and **networking** — I love building user-friendly applications, designing secure systems, and exploring innovative tech wherever it takes me.
-
-Outside of programming you'll usually find me riding dressage, working with horses, or enjoying wildlife and agriculture.
+I am always seeking opportunities to learn, contribute, connect with others, and make a meaningful impact. Feel free to connect!
 
 </td>
 </tr>
@@ -172,19 +171,6 @@ Outside of programming you'll usually find me riding dressage, working with hors
 </tr>
 
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div align="center">
 
