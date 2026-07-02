@@ -84,110 +84,91 @@ I also have a strong interest in **wildlife conservation and agriculture**, and 
 </table>
 
 <div align="center">
-
 &nbsp;
-
 </div>
 
 
-<h2 align="center">⚡ Technology Arsenal</h2>
-
 <table align="center" width="100%">
 
-<!-- ================= LANGUAGES ================= -->
+<!-- ================= ROW 1 ================= -->
 <tr>
-<td align="center" width="50%" valign="top">
+<td align="center" colspan="2">
 
 <h3>💻 Languages</h3>
 
-<p align="center">
-<img height="42" src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
-</p>
+<img height="42" src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,mysql,cobol,prolog,assembly" />
 
-<p align="center">
-<img height="42" src="https://skillicons.dev/icons?i=html,css,mysql" />
-</p>
+<br/>
 
-<p align="center">
-<img height="42" src="https://skillicons.dev/icons?i=cobol,prolog,assembly" />
-</p>
-
-<p align="center">
 <img src="https://img.shields.io/badge/API_Design-2F4A1E?style=for-the-badge&labelColor=FAF9F0&color=2F4A1E"/>
 <img src="https://img.shields.io/badge/Vector_DB-4B7B39?style=for-the-badge&labelColor=FAF9F0&color=4B7B39"/>
-</p>
 
 </td>
+</tr>
 
-<!-- ================= FRAMEWORKS ================= -->
-<td align="center" width="50%" valign="top">
+<!-- ================= ROW 2 ================= -->
+<tr>
+<td align="center">
 
 <h3>⚙️ Frameworks</h3>
 
-<p align="center">
-<img height="42" src="https://skillicons.dev/icons?i=flask,hibernate,nodejs" />
-</p>
-
-<p align="center">
-<img height="42" src="https://skillicons.dev/icons?i=react,nextjs,bootstrap" />
-</p>
-
-<p align="center">
-<img height="42" src="https://skillicons.dev/icons?i=pytorch" />
-</p>
+<img height="42" src="https://skillicons.dev/icons?i=flask,hibernate,nodejs,react,nextjs,bootstrap,pytorch" />
 
 </td>
-</tr>
 
-<!-- ================= TOOLS + SYSTEMS ================= -->
-<tr>
-
-<td align="center" width="50%" valign="top">
+<td align="center">
 
 <h3>🛠 Tools</h3>
 
-<p align="center">
-<img height="42" src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-</p>
+<img height="42" src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,maven,npm,vite,postman,mysql,postgres" />
 
-<p align="center">
-<img height="42" src="https://skillicons.dev/icons?i=maven,npm,vite,postman" />
-</p>
+<br/>
 
-<p align="center">
-<img height="42" src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-<p align="center">
 <img src="https://img.shields.io/badge/MinGW-4B7B39?style=for-the-badge&labelColor=FAF9F0&color=4B7B39"/>
 <img src="https://img.shields.io/badge/VirtualBox-6B9B46?style=for-the-badge&labelColor=FAF9F0&color=6B9B46"/>
-</p>
 
 </td>
+</tr>
 
-<td align="center" width="50%" valign="top">
+<!-- ================= ROW 3 ================= -->
+<tr>
+<td align="center" colspan="2">
 
 <h3>☁️ Systems</h3>
 
-<p align="center">
-<img height="42" src="https://skillicons.dev/icons?i=linux,windows,wsl,docker" />
-</p>
+<img height="42" src="https://skillicons.dev/icons?i=linux,windows,wsl,docker,azure,raspberrypi,arduino" />
 
-<p align="center">
-<img height="42" src="https://skillicons.dev/icons?i=azure,raspberrypi,arduino" />
-</p>
+<br/>
 
-<p align="center">
 <img src="https://img.shields.io/badge/KiCad-4B7B39?style=for-the-badge&labelColor=FAF9F0&color=4B7B39"/>
 <img src="https://img.shields.io/badge/PCB_Design-2F4A1E?style=for-the-badge&labelColor=FAF9F0&color=2F4A1E"/>
 <img src="https://img.shields.io/badge/Soldering-6B9B46?style=for-the-badge&labelColor=FAF9F0&color=6B9B46"/>
-</p>
 
 </td>
-
 </tr>
 
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
 
@@ -210,12 +191,6 @@ I also have a strong interest in **wildlife conservation and agriculture**, and 
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=M0ck1ngjay178&hide_border=true&background=FAF9F0&ring=6B9B46&fire=4B7B39&currStreakLabel=2F4A1E&sideLabels=2F4A1E&currStreakNum=2F4A1E&sideNums=2F4A1E&dates=6B9B46" />
-</p>
-
-<h3 align="center">📈 Development Activity</h3>
-
-<p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=M0ck1ngjay178&bg_color=FAF9F0&color=2F4A1E&line=6B9B46&point=4B7B39&area=true&area_color=6B9B46&hide_border=true" />
 </p>
 
 <div align="center">
